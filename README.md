@@ -2,7 +2,7 @@ qqq
 asdasassdaaaaaaaaaex-submodule
 =============aasdsds
 aabbaaaaaaaaasdsdll
-This repository contains several commits of a single project file as a simple example used in conjunction with submodules.
+This repository contains sevesral commits of a single project file as a simple example used in conjunction with submodules.
 
 ## Usage
 
